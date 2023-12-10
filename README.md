@@ -1,6 +1,6 @@
 ### Olá eu sou Silene Almeida!
 
-|###🦅Estou em transição de carreira para Quality Assurance.
+#### 🦅Estou em transição de carreira para Quality Assurance.
 
 - 👩‍💻Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio (EAD). Além disso, participei do Bootcamp de especialização em testes automatizados, o Dual eXperience, que oferece treinamento online, prático e intensivo, abrangendo automação de testes e o ecossistema relacionado à arte de testar software. Também participei do Bootcamp Avanti na trilha de Quality Assurance, promovido pelo Instituto Atlântico.
 -📚Conhecimentos Adquiridos: 
@@ -23,4 +23,4 @@
 ![image](https://github.com/silene-p-almeida/silene-p-almeida/assets/147871137/1ea9aeb7-e4e4-4129-8d47-a820165609d2)
 
 
-###📫Contate-me pelo e-mail: silene2pereira@gmail.com 
+#### 📫Contate-me pelo e-mail: silene2pereira@gmail.com 
